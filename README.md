@@ -1,2 +1,2 @@
 # HTML CSS
- Projetos em HTML e CSS
+ Projetos do curso em HTML e CSS
